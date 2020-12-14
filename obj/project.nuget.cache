@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vje2FPr5NBhkjg8JJdEJBaI9eEy34PU9aQCskbm5blYpkvdZh5Yuj1HH1MfGARv7pGocTmLK3g0hnTfo1Te1ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\POO_Static\\POO_Static.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
